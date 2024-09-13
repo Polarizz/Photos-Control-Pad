@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://github.com/user-attachments/assets/393acafd-4b66-4049-80bc-2d266b17aa27">
+  <img width="100" src="https://github.com/user-attachments/assets/5f7c1c44-35eb-4183-82be-dc1697807ae4">
 </p>
 
 # Photos Control Pad
